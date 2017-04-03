@@ -1,0 +1,1 @@
+7za.exe a uenv.7z autorun.inf LICENSE mount.bat uEnv.bat uenv.ico umount.bat .sys\clink-0.4.8\clink.lua .sys\clink-0.4.8\clink_dll_x86.dll .sys\clink-0.4.8\clink_inputrc_base .sys\clink-0.4.8\clink_x86.exe .sys\cubo\packages.installed.json .sys\uenv\uenv-remake.py
