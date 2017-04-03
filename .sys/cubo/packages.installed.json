@@ -1,0 +1,13 @@
+{
+  "uenv": {
+    "package_name": "uenv",
+    "version": 0,
+    "desc": "micro dev environment",
+    "install_path": ".sys/uenv",
+    "path": [
+      "PATH=%PATH%;X:\\.sys\\uenv",
+      "PATH=%PATH%;X:\\.sys\\cubo",
+      "PATH=%PATH%;X:\\Software"
+    ]
+  }
+}
